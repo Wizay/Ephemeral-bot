@@ -1,0 +1,68 @@
+[
+	{
+		"name": "ban",
+		"info": "Allow you to ban someone in the guild!",
+		"example": "?ban @xGrow",
+		"syntax": "?ban <@user>"	
+	},
+	{
+		"name": "kick",
+		"info": "Allow you to kick someone in the guild!",
+		"example": "?kick @Wizayy",
+		"syntax": "?kick <@user>"	
+	},
+	{
+		"name": "prune",
+		"info": "Delete various message at the same time!",
+		"example": "?prune 10",
+		"syntax": "?prune <quantity>"	
+	},
+	{
+		"name": "addrole",
+		"info": "Add a role to someone in the guild!",
+		"example": "?addrole @Wizayy Ephemeral Premium",
+		"syntax": "?addrole <@user> <role-name>"	
+	},
+	{
+		"name": "takerole",
+		"info": "Take a role from someone in the guild!",
+		"example": "?takerole @xGrow BOT Dev",
+		"syntax": "?takerole <@user> <role-name>"	
+	},
+	{
+		"name": "buy",
+		"info": "Information about how to buy the DE2OR MOD Menu!",
+		"example": "?buy",
+		"syntax": "?buy"	
+	},
+	{
+		"name": "setgame",
+		"info": "Set bot's game!",
+		"example": "?setgame ?help ",
+		"syntax": "?setgame <name>"	
+	},
+	{
+		"name": "mute",
+		"info": "Allow you to mute someone in the guild!",
+		"example": "?mute @xGrow",
+		"syntax": "?mute <@user>"	
+	},
+	{
+		"name": "ping",
+		"info": "Bot response time!",
+		"example": "?ping",
+		"syntax": "?ping"	
+	},
+	{
+		"name": "hackban",
+		"info": "Similiar to ipban, when a user with an id that is in the HackBan system enters, is automatically banned.",
+		"example": "?hackban 224625959158939649",
+		"syntax": "?hackban <user-id>"	
+	},
+	{
+		"name": "serverinfo",
+		"info": "Shows the information about the guild",
+		"example": "?serverinfo",
+		"syntax": "?serverinfo"	
+	}
+]
